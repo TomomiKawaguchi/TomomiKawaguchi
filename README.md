@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=TomomiKawaguchi&show_icons=true&theme=gruvbox" />
 
 
-My Skill (※ All have work experience)
+My Skill 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,aws,mysql,git,github,docker,vscode" /> <br /><br />
 
